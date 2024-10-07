@@ -1,19 +1,15 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
-<h3 align="center">A passionate [Your Title] from [Location]</h3>
+<h1 align="center">Hi 👋, I'm VETRYVELAN J</h1>
+<h3 align="center">A passionate JAVA DEVELOPER</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;I+am+a+software+developer;I+love+to+code+and+build+projects" alt="Typing SVG">
 </p>
 
-- 🔭 I’m currently working on **[Your Project]**
+- 🌱 I’m currently learning **JAVA FULL STACK**
 
-- 🌱 I’m currently learning **[Your Skills/Technologies]**
+- 👯 I’m looking for **Help With Placements**
 
-- 👯 I’m looking to collaborate on **[Open Source Projects/Technologies]**
-
-- 💬 Ask me about **[Your Expertise]**
-
-- 📫 How to reach me **[Your Email]**
+- 📫 How to reach me **vetryvelan.j15103@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
