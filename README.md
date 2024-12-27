@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **vetryvelan.j15103@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+s
 <p align="left">
 </p>
 
