@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/yourprofile" target="blank"><img align="center" src="[www.linkedin.com/in](https://www.linkedin.com/in/vetry/)/vetry" alt="linkedin" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/yourprofile" target="blank"><img align="center" src="https://www.linkedin.com/in/vetry/" alt="linkedin" height="30" width="40" /></a>
 <a href="https://twitter.com/yourprofile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/twitter.svg" alt="twitter" height="30" width="40" /></a>
 </p>
 
