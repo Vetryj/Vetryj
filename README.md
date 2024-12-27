@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **vetryvelan.j15103@gmail.com**
 
-s
+
 <p align="left">
 </p>
 
