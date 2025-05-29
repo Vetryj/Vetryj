@@ -23,7 +23,6 @@
   <img src="https://img.icons8.com/color/48/000000/flutter.png" title="Flutter"/>
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" title="Java"/>
   <img src="https://img.icons8.com/color/48/000000/spring-logo.png" title="Spring Boot"/>
-  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-hibernate-an-object-relational-mapping-tool-for-the-java-programming-language-logo-shadow-tal-revivo.png" title="Hibernate"/>
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" title="MySQL"/>
   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" title="HTML"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png" title="CSS"/>
@@ -31,20 +30,6 @@
 </p>
 
 ---
-
-<h3 align="center">📊 GitHub Stats</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VetryVelan&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=VetryVelan&theme=tokyonight" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VetryVelan&theme=vue" alt="Profile Details"/>
-</p>
 
 ---
 
