@@ -29,13 +29,3 @@
   <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" title="JavaScript"/>
 </p>
 
----
-
----
-
-<h3 align="center">⚡ Contribution Snake</h3>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/VetryVelan/VetryVelan/output/github-contribution-grid-snake.svg" alt="Snake animation">
-</p>
-
