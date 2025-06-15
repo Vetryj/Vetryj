@@ -8,7 +8,7 @@
 ---
 
 - 🔭 I’m currently working on **Java, Spring Boot, and Android Projects**
-- 🌱 I’m currently learning **Advanced Spring Boot and System Design**
+- 🌱 Experienced in **Advanced Spring Boot and System Design**
 - 💬 Ask me about **Java, Android, Flutter, Backend Development**
 - 📱 Working on both Android and Flutter projects
 - 🚀 Searching for my next position with hands-on experience in development
